@@ -1,4 +1,4 @@
-# Demo file for the folder with the draft version of each deliverable
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
-
-This folder contains a subfolder for each related module and the files that must be reviewed for each deliverable. Please refer to each subfolder for more details.
+# Entregas Intermedias de Retroalimentación
+Dentro de este apartado se encuentra los entregables correspondientes a los avances realizados del reto. Esta apartado se conforma de los siguientes archivos:
+* <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M2_ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/Marvel_Movies.csv">**Entregable 1.ipynb:**</a> Descripción del primer entregable.
+* <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M2_ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/Momento_de_Retroalimentaci%C3%B3n_An%C3%A1lisis_y_Reporte_sobre_el_desempe%C3%B1o_del_modelo.ipynb">**Entregable 2.ipynb:**</a> Descripción del segundo entregable.
