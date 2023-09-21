@@ -5,10 +5,6 @@ import Card from 'primevue/card';
 import TreeTable from 'primevue/treetable';
 import Column from 'primevue/column';
 
-// import Histogram from '../components/Histogram.vue'
-// defineProps<{ msg: string }>()
-
-
 const nodes = ref();
 
 let files = [];
@@ -49,7 +45,7 @@ nodes.value = files;
       <Skeleton width="75%" />
     </div>
     <Card class="col-span-3">
-      <template #content>
+      <template #content class="">
         <Skeleton />
         <Skeleton width="75%" />
       </template>

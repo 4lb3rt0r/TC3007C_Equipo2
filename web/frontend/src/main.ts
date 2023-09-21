@@ -22,5 +22,4 @@ const CustomTailwind = usePassThrough(
 app.use(PrimeVue, { unstyled: true, pt: CustomTailwind });
 
 app.use(router);
-app.use(PrimeVue, { unstyled: true, pt: Tailwind });
 app.mount('#app');
