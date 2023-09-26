@@ -8,8 +8,9 @@
 ## Profesores
 * Ivan Mauricio Amaya Contreras
 * Blanca Rosa Ruiz Hernandez
-* Antonio Carlos Bento
-* Frumencio Olivas Alvarez
+* Félix Ricardo Botello Urrutia
+* Edgar Covantes Osuna
+* Felipe Castillo Rendón
 * Hugo Terashima Marín
 
 ## Reto Periodo 2: Detección Automática de Asistencia y Participación dentro de un Salón de Clase
