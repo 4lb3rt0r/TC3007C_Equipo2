@@ -29,8 +29,9 @@ En las etapas finales del primer proyecto, se anticipa que el modelo de Machine 
 * *[Momento de Retroalimentación - Reto: Metodología](/retro/Metodología/)*
 	* **Archivo README: [retro/Metodología/README.md](/retro/Metodología/README.md)**
 	* **Documento de Requerimientos**: [Metodología/Documento de Requerimientos.pdf](/retro/Metodología/Documento de Requerimientos.pdf) 
-	* **Memorándum de Entendimiento**: [Metodología/Memorándum de Entendimiento.pdf](/retro/Metodología/Memorándum de Entendimiento.pdf)
+	* **Memorándum de Entendimiento: [Metodología/Memorándum de Entendimiento.pdf](/retro/Metodología/Memorándum%20de%20Entendimiento.pdf)**
 	* **Mapeo de Recursos y Herramientas Disponibles**: [Metodología/Mapeo de Recursos y Herramientas Disponibles.pdf](/retro/Metodología/Mapeo de Recursos y Herramientas Disponibles.pdf)**
+	* **Mapeo de Recursos y Herramientas Disponibles: [Metodología/Plan De Proyecto.pdf](/retro/Metodología/Plan%20de%20Proyecto.pdf)**
 
 * *[Momento de Retroalimentación: Reto Selección, configuración y entrenamiento del modelo](/retro/Reto%20Selección,%20configuración%20y%20entrenamiento%20del%20modelo/)*
 	* **Archivo README: [README.md](/retro/Reto%20Selección,%20configuración%20y%20entrenamiento%20del%20modelo/README.md)**
