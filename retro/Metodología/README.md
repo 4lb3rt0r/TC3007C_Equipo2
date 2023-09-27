@@ -1,9 +1,9 @@
 # Evaluación y Refinamiento de modelo 
 
 En este directorio puede encontrar los documentos necesarios correspondientes a la metodología establecida a seguir del reto. Cuenta con los siguientes archivos:
-* **Documento de Requerimientos.pdf:** Documento PDF que ...
+* **Documento de Requerimientos.pdf:** Documento PDF que sirve para establecer los requerimientos que el software necesita cumplir en su versión final.
 * **Memorándum de Entendimiento.pdf:** Documento PDF que describe el acuerdo bilateral entre el socio formador (NDS) y los alumnos pertenecientes al equipo 2 de la concentración de *Inteligencia Artificial Avanzada II*.
-* **Mapeo de Recursos y Herramientas Disponibles.pdf:** Documento PDF que ...
+* **Mapeo de Recursos y Herramientas Disponibles.pdf:** Documento PDF que define las herramientas a utilizar para el desarrollo del sistema automatizado de pase de lista y participación.
 * **Plan de Proyecto:** Documento PDF que incluye una breve descripción y diagramas que proyectan la metodología a seguir para nuestro proyecto. Así mismo, este documneto incluye una sección asignada para los avances por semana, así como este mismo archivo README a continuación:
 
     ### **Reporte Semana 1**
