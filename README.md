@@ -33,12 +33,7 @@ En las etapas finales del primer proyecto, se anticipa que el modelo de Machine 
 	* **Mapeo de Recursos y Herramientas Disponibles**: [Metodología/Mapeo de Recursos y Herramientas Disponibles.pdf](/retro/Metodología/Mapeo de Recursos y Herramientas Disponibles.pdf)**
 	* **Mapeo de Recursos y Herramientas Disponibles: [Metodología/Plan De Proyecto.pdf](/retro/Metodología/Plan%20de%20Proyecto.pdf)**
 
-* *[Momento de Retroalimentación: Reto Selección, configuración y entrenamiento del modelo](/retro/Reto%20Selección,%20configuración%20y%20entrenamiento%20del%20modelo/)*
-	* **Archivo README: [README.md](/retro/Reto%20Selección,%20configuración%20y%20entrenamiento%20del%20modelo/README.md)**
-	* **Base de Datos del Titanic limpia: [train_clean.csv](/retro/Reto%20Selección,%20configuración%20y%20entrenamiento%20del%20modelo/train_clean.csv)**
-	* **Código en Jupyter Notebook de la Selección de Modelos**: [Configuracion_Modelos.ipynb](/retro/Reto%20Selección,%20configuración%20y%20entrenamiento%20del%20modelo/Configuracion_Modelos.ipynb)
-
-* *[Momento de Retroalimentación: Reto Evaluación y Refinamiento de modelo](/retro/Reto%20Evaluación%20y%20Refinamiento%20de%20modelo/)*
-	* **Archivo README: [README.md](/retro/Reto%20Evaluación%20y%20Refinamiento%20de%20modelo/README.md)**
-	* **Base de Datos del Titanic limpia: [train_clean.csv](retro/Reto%20Evaluación%20y%20Refinamiento%20de%20modelo/train_clean.csv)**
-	* **Código en Jupyter Notebook de la Selección de Modelos**: [Reto_Redes_Neuronales_Refinado.ipynb](retro/Reto%20Evaluación%20y%20Refinamiento%20de%20modelo//Reto_Redes_Neuronales_Refinado.ipynb)
+* *[Momento de Retroalimentación - Reto Datos](/retro/Datos/)*
+	* **Archivo README: [README.md](/retro/Datos/README.md)**
+	* **Documento de Arquitectura, Almacenamiento y Big Data: [Momento de Retroalimentación: Reto Datos.pdf](/retro/Datos/Momento_de_Retroalimentación:_Reto_Datos.pdf)**
+	* **Dataset de Ejemplo: [dataset_ejemplo.zip](/retro/Datos/dataset_ejemplo.zip)**
