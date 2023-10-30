@@ -24,19 +24,60 @@ En este directorio puede encontrar los documentos necesarios correspondientes a 
     Se espera que para la semana 4 estemos implementando el reconocimiento de participación de una persona en conjunto con los avances de esta semana.
 
     ### **Reporte Semana 4**
+    Para esta semana 4 se llevo a cabo la continuación del desarrollo tanto de la aplicación web como de la simulación en Unity 3D. Por el apartado de la interfaz, se aplicaron los siguientes avances:
+
+    * Implementación de AWS S3
+    * Verificación de correo de usuario
+    * Reconocimiento facial de usuario
+    * Creación de cursos
+    * Implementación de reconocimiento facial de usuario a través de API y S3
+
+    En cuanto a Unity 3D, se logró obtener un escenario de un salón de clases con sillas, escritorios, ventanas, iluminación, lo más importante, se obtuvieron los diseños de los agentes o personajes que se utilizaran para actuar como alumnos dentro de la simulación.
+
+    Para la semana 5 se espera seguir avanzando por el apartado web, a su vez que se comienza a trabajar con las animaciones y movimientos de los agentes (personajes) de Unity.
+
+    ### **Reporte Semana 5**
+    A lo largo de esta semana y como era esperado, se trabajó en la interfaz web, la cual ahora permite crear cursos que incluyen el nombre, la ubicación (edificio y número) y permite agregar los estudiantes que forman parte de la misma. Al crear un curso, es posible visualizar información más detallada (además de la antes mencionada), esto incluyendo el total de sesiones realizadas y el promedio tanto de asistencias como de participaciones durante las clases, así como sus respectivas asistencia y participación por alumno, haciendo posible filtrar esta información por fechas.
+
+    En cuánto a Unity, se cambió el color de fondo del salón para que resultase más sencillo identificar tanto rostros como poses dentro de la emulación, y además, se arreglo la iluminación de la escena con el fin de tener una mejor visualización de lso elementos que aparecen en la misma. En cuanto a los modelos de Unity, se obtuvo finalmente el movimiento completo de los personajes de forma automática con la ayuda del componente llamado NavMeshGrid de Unity para generar agentes con IA que se mueven en base a objetivos (en nuestro caso los asientos) y a la definición del entorno en el que puede trasladarse (el salón de clase).
+
+    Esperamos que para la siguiente semana se continúe con el desarrollo de los modelos de inteligencia artificial con algoritmos de redes convolucionales. Principalmente buscaremos reemplazar el modelo de haarcascade de reconocimiento facial, debido a que no lo consideramos lo suficientemente preciso como para implementarlo en conjunto con el modelo de pose, inclusive para la participación. Más que nada se tomó esta decisión ya que resulta ser muy inestable y requiere un volumen de datos bastante robusto, cosa que no sucede con otras librerias y modelos pre-entrenados.
+
+    ### **Reporte Semana 6**
+    Esta semana se dedicó completamente para el desarrollo de los algoritmos tanto de reconocimiento facial como el de pose. Primeramente se probaron con varias librerías nuevas con el fin de encontrar la mejor entre todas e intentar implementarla a las necesidades de nuestro proyecto.
+
+    Para el reconocimiento facial y registro de asistencia se considero la librería **facial_recognition**, que es muy fácil de usar y adaptar. Seguimos algunos tutoriales y foros para adaptar el código y logramos que el algoritmo reconociera personas con una sola foto sin requerir un mayor volumen de datos como la haarcascade que utilizamos previamente. Habiendo cumplido con esto, ya solo hacía falta registrar una asistencia a la persona que corresponda, logramos cumplir con el registro de asistencias en un video, ya sea en vivo o grabado.
+
+    Por el lado del modelo de participación, decidimos utilizar la librería **mediapipe** para estimar la pose de los individuos que aparecen en un video. Se probó con la implementación de un algoritmo simple que detecta cuando una persona levanta su brazo y lleva un contador de cuántas veces ha realizado esta acción. Después, se probó implementando 2 modelos de poses trabajando al mismo tiempo, lo cual funciona pero solo en casos muy específicos y tiende a presentar fallos con mucha facilidad. Finalmente, se intentó integrar ambos algoritmos, reconocimiento facial y de pose, para observar cómo se comportaban en conjunto. El modelo de asistencia actuaba con normalidad, mientras que la participación junto al reconocimiento facial tiende a presentar fallas y otorga la participación a las personas que no corresponden o bien a veces no otorga participación.
+
+    Es por lo mencionado anteriormente, que para la semana 7 se refinen y corrijan estos detalles. Inclusive, se pensó en implementar YOLO como una herramienta de reconocimiento de objetos, para que con ello primero se reconozcan personas, luego a cada una se genere un modelo de pose y finalmente, cuando un alumno levante la mano, se busque su cara y se haga reconocimiento facial para registrar su participación en el sistema.
+
+    ### **Reporte Semana 7**
     Pendiente...
 
 ## Canal de Comunicación con el Socio Formador (NDS)
 Como medio para contactar al socio formador que nos acompaña durante el planteamiento y desarollo de este proyecto tenemos un canal abierto de comunicación tanto por la aplicación de *Slack*, como una sesión semanal por zoom. Dentro de este apartado se adjuntarán las evidencias tanto de reuniones como chats con los miembros de NDS:
 
-* Chat entre el socio formador y el equipo para proveer acceso del repositorio del reto al socio formador:
+* Chat entre el socio formador y el equipo para proveer acceso del repositorio del reto al socio formador (21/Sep/23):
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 20px">
     <img src="img/image.png" width="95%"/>
 </div>
 
-* Chat entre el socio formador y el equipo para otorgar acceso a los repositorios tanto de frontend como de backend (esto es correspondiente a los entregables de la semana 3):
+* Chat entre el socio formador y el equipo para otorgar acceso a los repositorios tanto de frontend como de backend (2/Oct/23):
 
-<div style="text-align: center;">
+<div style="text-align: center;  margin-bottom: 20px">
     <img src="img/image2.jpeg" width="95%"/>
+</div>
+
+* Evidencia de reunión con el socio formador (23/Oct/23):
+
+<div style="text-align: center;  margin-bottom: 20px">
+    <img src="img/image3.png" width="95%"/>
+</div>
+
+* Chat entre el socio formador y Alberto para reenviar invitación a repositorios de Frontend y de Backend (23/Oct/23):
+
+<div style="text-align: center;  margin-bottom: 20px">
+    <img src="img/image4.png" width="95%"/>
 </div>
