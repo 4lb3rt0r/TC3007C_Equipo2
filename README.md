@@ -40,4 +40,4 @@ En las etapas finales del primer proyecto, se anticipa que el modelo de Machine 
 
 * *[Momento de Retroalimentación - Reto Documentación](/retro/Documentacion/)*
 	* **Archivo README: [README.md](/retro/Documentacion/README.md)**
-	* **Documento de Arquitectura, Almacenamiento y Big Data: [Momento de Retroalimentación: Reto Datos.pdf](/retro/Documentacion/Momento_de_Retroalimentación_Reto_Documentacion.pdf)**
+	* **Documento de Arquitectura, Almacenamiento y Big Data: [Momento de Retroalimentación: Reto Datos.pdf](/retro/Documentacion/Momento_de_Retroalimentacion_Reto_Documentacion.pdf)**
