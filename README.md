@@ -12,6 +12,7 @@
 * Edgar Covantes Osuna
 * Felipe Castillo Rendón
 * Hugo Terashima Marín
+* Christian Carlos Mendoza Buenrostro
 
 ## Socio Formador
 **NDS Cognitive Labs**
