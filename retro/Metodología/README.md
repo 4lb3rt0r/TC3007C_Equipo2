@@ -53,6 +53,11 @@ En este directorio puede encontrar los documentos necesarios correspondientes a 
     Es por lo mencionado anteriormente, que para la semana 7 se refinen y corrijan estos detalles. Inclusive, se pensó en implementar YOLO como una herramienta de reconocimiento de objetos, para que con ello primero se reconozcan personas, luego a cada una se genere un modelo de pose y finalmente, cuando un alumno levante la mano, se busque su cara y se haga reconocimiento facial para registrar su participación en el sistema.
 
     ### **Reporte Semana 7**
+    Durante esta semana nos concentramos en perfeccionar los resultados del modelo de participación. Tuvimos que buscar arduamente en muchos foros de discusión, tutoriales, documentación y artículos relacionados a **Mediapipe** y a **YOLO**. Lo que encontramos es que en efecto es posible utilizar ambos modelos, e inclusive encontramos un código de ejemplo que asigna hasta 6 distintos modelos de pose para cada persona utilizando **yolov5** y **mediapipe**. Teniendo este procedimiento como referencia, logramos replicarlo e implementarlo dentro de nuestro código. El modelo de participación demostró tener resultados decentes, sin embargo, creemos firmemente que esto puede mejorar, más si tomamos en cuenta que el modelo presenta algunas fallas al momento de asignar participaciones, como por ejemplo, asigna participaciones de más si el estudiante mantiene su brazo levantado, cuando debería de detenerse y considerar solo una participación cada que se levante la mano, no durante el tiempo que se conserve levantada. Otro detalle a mejorar es que suele confundir personas al momento de asignarles su respectiva participación, y esto resulta ser muy extraño, debido a que el modelo de reconocimiento facial funciona a la perfección por si solo, así que sospechamos que esto se debe a la forma en la cual enviamos los datos al modelo de reconocimiento facial.
+
+    Por otro lado, también se trabajó en el deployment de la aplicación web a AWS por medio de una instancia de EC2. Para ello, revisamos documentación tanto de AWS EC2 como de Fast API para montar el backend en la nube de Amazon.
+
+    ### **Reporte Semana 8**
     Pendiente...
 
 ## Canal de Comunicación con el Socio Formador (NDS)
@@ -80,4 +85,10 @@ Como medio para contactar al socio formador que nos acompaña durante el plantea
 
 <div style="text-align: center;  margin-bottom: 20px">
     <img src="img/image4.png" width="95%"/>
+</div>
+
+* Evidencia de reunión con el socio formador (06/Nov/23):
+
+<div style="text-align: center;  margin-bottom: 20px">
+    <img src="img/image5.png" width="95%"/>
 </div>
