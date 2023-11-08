@@ -41,4 +41,8 @@ En las etapas finales del primer proyecto, se anticipa que el modelo de Machine 
 
 * *[Momento de Retroalimentación - Reto Documentación](/retro/Documentacion/)*
 	* **Archivo README: [README.md](/retro/Documentacion/README.md)**
-	* **Documento de Arquitectura, Almacenamiento y Big Data: [Momento de Retroalimentación: Reto Datos.pdf](/retro/Documentacion/Momento_de_Retroalimentacion_Reto_Documentación.pdf)**
+	* **Documento de Arquitectura, Almacenamiento y Big Data: [Momento de Retroalimentación: Reto Documentacion.pdf](/retro/Documentacion/Momento_de_Retroalimentacion_Reto_Documentación.pdf)**
+
+* *[Momento de Retroalimentación - Reto Modelo y Refinamiento](/retro/Refinamiento/)*
+	* **Archivo README: [README.md](/retro/Refinamiento/README.md)**
+	* **Video explicativo: [Momento de Retroalimentación: Reto Modelo y Refinamiento.pdf](https://drive.google.com/file/d/1Wvb5kKMCxaJiQR5YR-dnyMMNe8RsRWy0/view)**
