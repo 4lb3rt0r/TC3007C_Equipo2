@@ -17,6 +17,7 @@
 ## Socio Formador
 **NDS Cognitive Labs**
 * Nisim Jonathan Hurst Tarrab
+* Kevin Zazueta
 
 ## Reto Periodo 2: Sistema de detección automática de asistencia y participación dentro de un salón de clase basado en ML y visión computacional
 
