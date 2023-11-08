@@ -45,4 +45,4 @@ En las etapas finales del primer proyecto, se anticipa que el modelo de Machine 
 
 * *[Momento de Retroalimentación - Reto Modelo y Refinamiento](/retro/Refinamiento/)*
 	* **Archivo README: [README.md](/retro/Refinamiento/README.md)**
-	* **Video explicativo: [Momento de Retroalimentación: Reto Modelo y Refinamiento.pdf](https://drive.google.com/file/d/1Wvb5kKMCxaJiQR5YR-dnyMMNe8RsRWy0/view)**
+	* **Video explicativo: [Momento de Retroalimentación: Reto Modelo y Refinamiento.mp4](https://drive.google.com/file/d/1Wvb5kKMCxaJiQR5YR-dnyMMNe8RsRWy0/view)**
