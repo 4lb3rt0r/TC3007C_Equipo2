@@ -1,0 +1,4 @@
+# Momento de Retroalimentación. Reto Evaluación
+
+En este directorio puede encontrar documento correspondiente a la investigación de las métricas utilizadas para evaluar el despempeño de modelos similares a los aplicados al reto, además del proceso sencillo que se llevó a cabo para evaluar el desempeño del modelo de reconocimiento facial correspondiente a nuestro reto:
+* **Momento_de_Retroalimentación_Reto_Documentacion.pdf:** Documento PDF que contiene resúmenes de los artículos analizados con respecto a las métricas aplicadas para evaluar modelos similares a estimación de pose y/o reconocimiento facial. También se incluye un procedimiento de prueba bastante sencillo que utiliza imágenes de los integrantes del equipo para evaluar el desempeño del modelo de reconomiento facial.

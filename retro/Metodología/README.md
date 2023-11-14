@@ -58,7 +58,14 @@ En este directorio puede encontrar los documentos necesarios correspondientes a 
     Por otro lado, también se trabajó en el deployment de la aplicación web a AWS por medio de una instancia de EC2. Para ello, revisamos documentación tanto de AWS EC2 como de Fast API para montar el backend en la nube de Amazon.
 
     ### **Reporte Semana 8**
-    Pendiente...
+    Esta semana se trabajó en afinar detalles que el modelo de pose presentaba. Algunos comportamientos no deseos por este eran que al levantar el brazo, el tiempo que se mantenía arriba se contaban indefinida cantidad de participaciones a la persona levantando la mano. Otro detalle es que el modelo otorgaba participaciones a personas que no debía de otorgarles participación y otros detalles menores que se corrigieron.
+
+    Por el lado de la aplicación web, se busca empezar a implementar la aplicación en la nube con ayuda de EC2 de AWS, tal y como se realizó con el backend.
+
+    Para la siguiente semana se espera tener el modelo de pose funcionando lo mejor posible, además de que la aplicación web (o al menos los endpoints correspondientes) debe estar lista para implementar los modelos tanto de asistencia como participación.
+
+    ### **Reporte Semana 9**
+    ...
 
 ## Canal de Comunicación con el Socio Formador (NDS)
 Como medio para contactar al socio formador que nos acompaña durante el planteamiento y desarollo de este proyecto tenemos un canal abierto de comunicación tanto por la aplicación de *Slack*, como una sesión semanal por zoom. Dentro de este apartado se adjuntarán las evidencias tanto de reuniones como chats con los miembros de NDS:
