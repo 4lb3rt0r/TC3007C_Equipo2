@@ -50,4 +50,4 @@ En las etapas finales del primer proyecto, se anticipa que el modelo de Machine 
 
 * *[Momento de Retroalimentación - Reto Evaluación](/retro/Evaluacion/)*
 	* **Archivo README: [README.md](/retro/Evaluacion/README.md)**
-	* **Documento de investigación y aplicación de métricas de evaluación: [Momento de Retroalimentación: Reto Evaluacion.pdf](/retro/Evaluacion/Momento_de_Retroalimentacion_Reto_Evaluación.pdf)**
+	* **Documento de investigación y aplicación de métricas de evaluación: [Momento de Retroalimentación: Reto Evaluacion.pdf](/retro/Evaluacion/Momento_de_Retroalimentación_Reto_Evaluación.pdf)**
