@@ -132,10 +132,10 @@ Como medio para contactar al socio formador que nos acompaña durante el plantea
 Se realizaron varias observaciones por parte del docente con respecto a la primera versión de los entregables, por lo cual, se realizaron ciertas modicaciones con el fin de cumplir con los criterios de la rúbrica que no se lograron alcanzar previamente. Es por ello que, a continuación se presentan las modificaciones realizadas al trabajo basados en la retroalimentación proporcionada por criterio faltante:
 
 * **El levantamiento de requerimientos es completo y correcto.**
-   * Esta marca ya se había cumplido, sin embargo el docente recomendó especificar más los requisitos, en especial los relacionados a los modelos de pose y reconocimiento facial, además de organizarlos en nivel de prioridad
+   * Esta marca ya se había cumplido, sin embargo el docente recomendó especificar más los requisitos, en especial los relacionados a los modelos de pose y reconocimiento facial, además de organizarlos en nivel de prioridad.
 
 * **El repositorio incluye un mapeo de recursos y herramientas disponibles.**
-   * Esta marca ya se había cumplido, sin embargo el docente recomendó especificar exactamente con qué recursos se cuenta.
+   * Esta marca ya se había cumplido, sin embargo el docente recomendó especificar exactamente con qué recursos se cuenta. Se elaboró un documento más específico con las herramientas y recursos a utilizar en el proyecto, por lo que debe cubrir el comentario hecho por el docente.
 
 * **Las referencias utilizadas están citadas de forma correcta.**
    * Esta marca ya se había cumplido, sin embargo el docente indicó que el diagrama de tareas dice que incluye los reponsables, pero los mismos no están incluidos en el diagrama. Esto ya se ha corregido, el diagrama no está supeusto a incluir a los responsables, en el Gantt es dónde se encuentra esta información y ya se especificó esto dentro del documento.
