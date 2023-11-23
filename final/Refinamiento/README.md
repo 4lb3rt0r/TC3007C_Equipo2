@@ -1,0 +1,4 @@
+# Momento de Retroalimentación. Reto Documentación
+
+En este directorio puede encontrar el link directo al video correspondiente al proceso que se sigue para el refinamiento y los modelos generados con respecto a la solución propuesta por el equipo para el reto:
+* **Momento_de_Retroalimentación_Modelo_y_Refinamiento.mp4:** Video que condensa el proceso llevado a cabo para implementar los modelos de Deep Learning (reconocimiento facial y de pose) para registrar asistencia y participación de forma automática en un salón de clases. **[Aquí se puede encontrar el enlace directo a dicho video](https://drive.google.com/file/d/1Wvb5kKMCxaJiQR5YR-dnyMMNe8RsRWy0/view)**.

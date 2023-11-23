@@ -65,7 +65,15 @@ En este directorio puede encontrar los documentos necesarios correspondientes a 
     Para la siguiente semana se espera tener el modelo de pose funcionando lo mejor posible, además de que la aplicación web (o al menos los endpoints correspondientes) debe estar lista para implementar los modelos tanto de asistencia como participación.
 
     ### **Reporte Semana 9**
-    ...
+    Esta semana se empezó a trabajar los endpoints que manejan las funciones de los modelos de participación y asistencia dentro del backend de la aplicación de forma local.
+
+    En cuanto al apartado web se empezó a implementar el usuario administrador además de los roles de estudiante y profesor que ya existían. También se terminó de subir la aplicación en la nube sin los modelos de predicción con fines de probar el redimiento de la misma solo con el frontend y backend. Es por ellos que durante este semana y a más tardar inicios de la siguiente se espera hacer el deploy final de la aplicación con todos los modelos y sus funcionalidades completas.
+
+    ### **Reporte Semana 10**
+    A inicios de esta semana trabajamos los últimos detalles de la aplicación, conseguimos hacer deploy de la página a la nube en una instancia de AWS utilizando una instancia de EC2 para alojar la aplicación (frontend y backend), incluyendo los modelos de participación y asistencia.
+
+    Preparamos toda la documentación necesaria para las entregas finales, incluyendo la presentación y el reporte final para mostrar los resultados finales al socio formador.
+
 
 ## Canal de Comunicación con el Socio Formador (NDS)
 Como medio para contactar al socio formador que nos acompaña durante el planteamiento y desarollo de este proyecto tenemos un canal abierto de comunicación tanto por la aplicación de *Slack*, como una sesión semanal por zoom. Dentro de este apartado se adjuntarán las evidencias tanto de reuniones como chats con los miembros de NDS:
@@ -99,3 +107,38 @@ Como medio para contactar al socio formador que nos acompaña durante el plantea
 <div style="text-align: center;  margin-bottom: 20px">
     <img src="img/image5.png" width="95%"/>
 </div>
+
+* Evidencia de reunión con el socio formador (13/Nov/23):
+
+<div style="text-align: center;  margin-bottom: 20px">
+    <img src="img/image6.png" width="95%"/>
+</div>
+
+* Evidencia de reunión con el socio formador para acceso a la plataforma (17/Nov/23):
+
+<div style="text-align: center;  margin-bottom: 20px">
+    <img src="img/image7.png" width="95%"/>
+    <img src="img/image8.png" width="95%"/>
+</div>
+
+* Evidencia de reunión con el socio formador para revisar avances finales (22/Nov/23):
+
+<div style="text-align: center;  margin-bottom: 20px">
+    <img src="img/image9.png" width="95%"/>
+    <img src="img/image10.png" width="95%"/>
+</div>
+
+## Cambios realizados con respecto a la entrega anterior
+Se realizaron varias observaciones por parte del docente con respecto a la primera versión de los entregables, por lo cual, se realizaron ciertas modicaciones con el fin de cumplir con los criterios de la rúbrica que no se lograron alcanzar previamente. Es por ello que, a continuación se presentan las modificaciones realizadas al trabajo basados en la retroalimentación proporcionada por criterio faltante:
+
+* **El levantamiento de requerimientos es completo y correcto.**
+   * Esta marca ya se había cumplido, sin embargo el docente recomendó especificar más los requisitos, en especial los relacionados a los modelos de pose y reconocimiento facial, además de organizarlos en nivel de prioridad
+
+* **El repositorio incluye un mapeo de recursos y herramientas disponibles.**
+   * Esta marca ya se había cumplido, sin embargo el docente recomendó especificar exactamente con qué recursos se cuenta.
+
+* **Las referencias utilizadas están citadas de forma correcta.**
+   * Esta marca ya se había cumplido, sin embargo el docente recomendó El diagrama dice que incluye los reponsables, pero los mismos no están incluidos en el diagrama
+
+* **La sección de avance de trabajo por semana contiene información para todas las semanas (solo aplica para entrega final)**
+    * Esta marca ya se había cumplido, sin embargo el docente recomendó completar el reporte de la semana 4, así como darle seguimiento a lso avances y registrarlos con cada semana de avance. Esto se cumplió actualizando los reportes semanales que faltaron en su momento, y también colocando nuevos registros. También se incluyó una sección de canal de comunicación con el socio formador que proyecta todas las interacciones por parte de nuestro equipo con el socio.

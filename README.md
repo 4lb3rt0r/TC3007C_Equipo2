@@ -27,6 +27,32 @@ Adicionalmente, se tiene como objetivo la implementación de herramientas y bibl
 
 En las etapas finales del primer proyecto, se anticipa que el modelo de Machine Learning brindará resultados cercanos a los datos reales, habiendo aplicado los métodos más óptimos para su implementación.
 
+## Archivos para evaluación final
+* *[Momento de Retroalimentación - Reto: Metodología](/final/Metodología/)*
+	* **Archivo README: [final/Metodología/README.md](/final/Metodología/README.md)**
+	* **Documento de Requerimientos: [Metodología/Documento de Requerimientos.pdf](/final/Metodología/OnePage%20-%20SRS.pdf)**
+	* **Memorándum de Entendimiento: [Metodología/Memorándum de Entendimiento.pdf](/final/Metodología/Memorándum%20de%20Entendimiento.pdf)**
+	* **Mapeo de Recursos y Herramientas Disponibles: [Metodología/Mapeo de Recursos y Herramientas Disponibles.pdf](/final/Metodología/Mapeo%20de%20Recursos%20y%20Herramientas.pdf)**
+	* **Plan de Proyecto: [Metodología/Plan De Proyecto.pdf](/final/Metodología/Plan%20de%20Proyecto.pdf)**
+
+* *[Momento de Retroalimentación - Reto Datos](/final/Datos/)*
+	* **Archivo README: [README.md](/final/Datos/README.md)**
+	* **Documento de Arquitectura, Almacenamiento y Big Data: [Momento de Retroalimentación: Reto Datos.pdf](/final/Datos/Momento_de_Retroalimentación_Reto_Datos.pdf)**
+	* **Dataset de Ejemplo: [dataset_ejemplo.zip](/final/Datos/dataset_ejemplo.zip)**
+
+* *[Momento de Retroalimentación - Reto Documentación](/final/Documentacion/)*
+	* **Archivo README: [README.md](/final/Documentacion/README.md)**
+	* **Documento de Arquitectura, Almacenamiento y Big Data: [Momento de Retroalimentación: Reto Documentacion.pdf](/final/Documentacion/Momento_de_Retroalimentacion_Reto_Documentación.pdf)**
+
+* *[Momento de Retroalimentación - Reto Modelo y Refinamiento](/final/Refinamiento/)*
+	* **Archivo README: [README.md](/final/Refinamiento/README.md)**
+	* **Video explicativo: [Momento de Retroalimentación: Reto Modelo y Refinamiento.mp4](https://drive.google.com/file/d/1Wvb5kKMCxaJiQR5YR-dnyMMNe8RsRWy0/view)**
+
+* *[Momento de Retroalimentación - Reto Evaluación](/final/Evaluacion/)*
+	* **Archivo README: [README.md](/final/Evaluacion/README.md)**
+	* **Documento de investigación y aplicación de métricas de evaluación: [Momento de Retroalimentación: Reto Evaluacion.pdf](/final/Evaluacion/Momento_de_Retroalimentación_Reto_Evaluación.pdf)**
+
+
 ## Archivos de retroalimentación
 * *[Momento de Retroalimentación - Reto: Metodología](/retro/Metodología/)*
 	* **Archivo README: [retro/Metodología/README.md](/retro/Metodología/README.md)**
