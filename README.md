@@ -38,7 +38,7 @@ En las etapas finales del primer proyecto, se anticipa que el modelo de Machine 
 * *[Momento de Retroalimentación - Reto Datos](/final/Datos/)*
 	* **Archivo README: [README.md](/final/Datos/README.md)**
 	* **Documento de Arquitectura, Almacenamiento y Big Data: [Momento de Retroalimentación: Reto Datos.pdf](/final/Datos/Momento_de_Retroalimentación_Reto_Datos.pdf)**
-	* **Dataset de Ejemplo: [dataset_ejemplo.zip](/final/Datos/dataset_ejemplo.zip)**
+	* **Dataset de Ejemplo: [Carpeta "dataset"](/final/Datos/dataset/)**
 
 * *[Momento de Retroalimentación - Reto Documentación](/final/Documentacion/)*
 	* **Archivo README: [README.md](/final/Documentacion/README.md)**
