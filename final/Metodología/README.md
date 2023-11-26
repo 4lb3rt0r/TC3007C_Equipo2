@@ -1,4 +1,4 @@
-# Momento de Retroalimentación. Metodología del Proyecto
+# Momento de Retroalimentación. Reto Metodología
 
 En este directorio puede encontrar los documentos necesarios correspondientes a la metodología establecida a seguir del reto. Cuenta con los siguientes archivos:
 * **Documento de Requerimientos.pdf:** Documento PDF que sirve para establecer los requerimientos que el software necesita cumplir en su versión final.

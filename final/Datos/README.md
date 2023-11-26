@@ -1,4 +1,4 @@
-# Momento de Retroalimentación. Datos del Proyecto 
+# Momento de Retroalimentación. Reto Datos
 
 En este directorio puede encontrar los archivos y documentos necesarios correspondientes a la estructura de componentes, arquitectura de software y un ejemplo de los datos utilizados para el reto. Cuenta con los siguientes archivos:
 * **Documento de Datos del Proyecto:** Documento PDF que sirve para establecer la arquitectura del software, el almacenamiento de datos y el enfoque en cuanto a si se hará uso de Big Data o no.
