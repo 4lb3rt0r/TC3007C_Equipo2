@@ -28,12 +28,17 @@ Adicionalmente, se tiene como objetivo la implementación de herramientas y bibl
 En las etapas finales del primer proyecto, se anticipa que el modelo de Machine Learning brindará resultados cercanos a los datos reales, habiendo aplicado los métodos más óptimos para su implementación.
 
 ## Archivos para evaluación final
+* *[Evidencia 3: Entrega Solución del Reto](/final/Entrega%20Final/)*
+	* **Archivo README: [final/Entrega Final/README.md](/final/Entrega%20Final/README.md)**
+	* **Reporte Técnico Classroom AI: [final/Entrega Final/Documento de Requerimientos.pdf](/final/Entrega%20Final/Reporte%20Técnico%20Classroom%20AI.pdf)**
+	* **Plan de Proyecto: [final/Entrega Final/Plan De Proyecto.pdf](/final/Entrega%20Final/Plan%20de%20Proyecto.pdf)**
+
 * *[Momento de Retroalimentación - Reto: Metodología](/final/Metodología/)*
 	* **Archivo README: [final/Metodología/README.md](/final/Metodología/README.md)**
-	* **Documento de Requerimientos: [Metodología/Documento de Requerimientos.pdf](/final/Metodología/OnePage%20-%20SRS.pdf)**
-	* **Memorándum de Entendimiento: [Metodología/Memorándum de Entendimiento.pdf](/final/Metodología/Memorándum%20de%20Entendimiento.pdf)**
-	* **Mapeo de Recursos y Herramientas Disponibles: [Metodología/Mapeo de Recursos y Herramientas Disponibles.pdf](/final/Metodología/Mapeo%20de%20Recursos%20y%20Herramientas.pdf)**
-	* **Plan de Proyecto: [Metodología/Plan De Proyecto.pdf](/final/Metodología/Plan%20de%20Proyecto.pdf)**
+	* **Documento de Requerimientos: [final/Metodología/Documento de Requerimientos.pdf](/final/Metodología/OnePage%20-%20SRS.pdf)**
+	* **Memorándum de Entendimiento: [final/Metodología/Memorándum de Entendimiento.pdf](/final/Metodología/Memorándum%20de%20Entendimiento.pdf)**
+	* **Mapeo de Recursos y Herramientas Disponibles: [final/Metodología/Mapeo de Recursos y Herramientas Disponibles.pdf](/final/Metodología/Mapeo%20de%20Recursos%20y%20Herramientas.pdf)**
+	* **Plan de Proyecto: [final/Metodología/Plan De Proyecto.pdf](/final/Metodología/Plan%20de%20Proyecto.pdf)**
 
 * *[Momento de Retroalimentación - Reto Datos](/final/Datos/)*
 	* **Archivo README: [README.md](/final/Datos/README.md)**

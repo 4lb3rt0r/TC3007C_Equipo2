@@ -4,12 +4,12 @@ Este directorio contiene las versiones finales de las diferentes etapas de soluc
 
 ## Contenidos
 
-* **Interfaz**: Código empleado para el reto del código de hardware, en el que se corre el modelo de inteligencia artificial en un microcontrolador ESP32, y se despliega en una páfina web alojada en Firebase.
+* **[Momento de Retroalimentación. Reto Metodología](/final/Metodología/)**: Directorio dónde se pueden encontrar los documentos necesarios correspondientes a la metodología establecida a seguir del reto.
 
-* **Limpieza de Datos**: Primer entregable del reto. Corresponde a la limpieza del conjunto de datos para posteriores entregas.
+* **[Momento de Retroalimentación. Reto Datos](/final/Datos/)**: Directorio en el cual se pueden encontrar los archivos y documentos necesarios correspondientes a la estructura de componentes, arquitectura de software y un ejemplo de los datos utilizados para el reto.
 
-* **Reto Selección, configuración y entrenamiento del modelo**: Segunda etapa del reto. Se implementan diversos modelos de machine learning buscando compararlos para seleccionar el que muestre mejor rendimiento para someterlo a refinameinto posterior.
+* **[Momento de Retroalimentación. Reto Documentación](/final/Documentacion/)**: En este directorio se puede encontrar el documento correspondiente al proceso que se sigue de la metodología y los modelos generados o solución propuesta.
 
-* **Reto Evaluación y Refinamiento de modelo**: Ultima etapa del reto. Se aplican metodologías para ajustar hiperparametros del modelo seleccionado buscando mejorar el rendimiento en comparación de la última entrega.
+* **[Momento de Retroalimentación. Reto Modelo y Refinamiento](/final/Refinamiento/)**: Directorio donde se puede encontrar el link directo al video correspondiente al proceso que se sigue para el refinamiento y los modelos generados con respecto a la solución propuesta por el equipo para el reto,
 
-* **Evidencia 3. Solución reto - Equipo 2**: Reporte final que engloba todo el trabajo realizado a lo largo del proyecto.
+* **[Evidencia 3: Entrega Solución del Reto](/final/Entrega%20Final/)**: Reporte final que engloba todo el trabajo realizado a lo largo del proyecto.
