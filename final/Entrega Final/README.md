@@ -3,6 +3,8 @@ En esta entrega se integran todos avances realizados en equipo durante el reto p
 
 * **Reporte Técnico Classroom AI.pdf:** Documento PDF integrador de todo el desarrollo de la aplicación para detección de pose y rostro de toma de asistencia y participación automático en un salón de clases.
 
+* **Código de la Implementación - attendance_participation_system.ipynb:** Archivo IPYNB o Jupyter Notebook que sirve como evidencia del desarrollo del modelo de participación y asistencia.
+
 * **Plan de Proyecto - Gantt.pdf:** Documento PDF que detalla todo el plan de proyecto con sus respectivas tareas, responsables, fechas de entrega y etapas del proyecto.
 
 ## Cambios realizados con respecto a la entrega anterior

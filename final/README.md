@@ -12,4 +12,4 @@ Este directorio contiene las versiones finales de las diferentes etapas de soluc
 
 * **[Momento de Retroalimentación. Reto Modelo y Refinamiento](/final/Refinamiento/)**: Directorio donde se puede encontrar el link directo al video correspondiente al proceso que se sigue para el refinamiento y los modelos generados con respecto a la solución propuesta por el equipo para el reto,
 
-* **[Evidencia 3: Entrega Solución del Reto](/final/Entrega%20Final/)**: Reporte final que engloba todo el trabajo realizado a lo largo del proyecto.
+* **[Evidencia 3: Entrega Solución del Reto](/final/Entrega%20Final/)**: Reporte final que engloba todo el trabajo realizado a lo largo del proyecto y código utilizado para la implementación del sistema de participación y asistencia.

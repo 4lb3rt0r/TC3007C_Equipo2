@@ -31,6 +31,7 @@ En las etapas finales del primer proyecto, se anticipa que el modelo de Machine 
 * *[Evidencia 3: Entrega Solución del Reto](/final/Entrega%20Final/)*
 	* **Archivo README: [final/Entrega Final/README.md](/final/Entrega%20Final/README.md)**
 	* **Reporte Técnico Classroom AI: [final/Entrega Final/Documento de Requerimientos.pdf](/final/Entrega%20Final/Reporte%20Técnico%20Classroom%20AI.pdf)**
+	* **Código de la solución del reto: [final/Entrega Final/attendance_participation_system.ipynb](/final/Entrega%20Final/attendance_participation_system.ipynb)**
 	* **Plan de Proyecto: [final/Entrega Final/Plan De Proyecto.pdf](/final/Entrega%20Final/Plan%20de%20Proyecto.pdf)**
 
 * *[Momento de Retroalimentación - Reto: Metodología](/final/Metodología/)*
